@@ -1,0 +1,14 @@
+E:\tmpp\Lab3\bin\Debug\net10.0\DentalClinic.Lab3.exe
+E:\tmpp\Lab3\bin\Debug\net10.0\DentalClinic.Lab3.deps.json
+E:\tmpp\Lab3\bin\Debug\net10.0\DentalClinic.Lab3.runtimeconfig.json
+E:\tmpp\Lab3\bin\Debug\net10.0\DentalClinic.Lab3.dll
+E:\tmpp\Lab3\bin\Debug\net10.0\DentalClinic.Lab3.pdb
+E:\tmpp\Lab3\obj\Debug\net10.0\DentalClinic.Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\tmpp\Lab3\obj\Debug\net10.0\DentalClinic.Lab3.AssemblyInfoInputs.cache
+E:\tmpp\Lab3\obj\Debug\net10.0\DentalClinic.Lab3.AssemblyInfo.cs
+E:\tmpp\Lab3\obj\Debug\net10.0\DentalClinic.Lab3.csproj.CoreCompileInputs.cache
+E:\tmpp\Lab3\obj\Debug\net10.0\DentalClinic.Lab3.dll
+E:\tmpp\Lab3\obj\Debug\net10.0\refint\DentalClinic.Lab3.dll
+E:\tmpp\Lab3\obj\Debug\net10.0\DentalClinic.Lab3.pdb
+E:\tmpp\Lab3\obj\Debug\net10.0\DentalClinic.Lab3.genruntimeconfig.cache
+E:\tmpp\Lab3\obj\Debug\net10.0\ref\DentalClinic.Lab3.dll
